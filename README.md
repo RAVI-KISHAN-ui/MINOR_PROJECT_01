@@ -1,6 +1,6 @@
 # MINOR_PROJECT_01
 
-# 🩺 Diabetes Prediction Using Logistic Regression
+#  Diabetes Prediction Using Logistic Regression
 
 ##  Project Overview
 
@@ -193,7 +193,7 @@ scikit-learn
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ravi Kishan**
 
@@ -201,6 +201,6 @@ B.Tech CSE(AIML) Student
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for educational purposes.
